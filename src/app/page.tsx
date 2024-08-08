@@ -39,10 +39,10 @@ export default function Home() {
           >
             <span className="fw-semibold">Lisa</span>
             <br />
-            <span>จริงค่า</span>
+            <span>จริงค่าาาาา</span>
             <div className="d-flex align-items-center gap-1">
               <img src="/like.svg" width={20}></img>
-              <span className="text-muted">999 คน</span>
+              <span className="text-muted">555 คน</span>
             </div>
           </div>
         </div>
@@ -64,7 +64,7 @@ export default function Home() {
           >
             <span className="fw-semibold">หมาน้อย</span>
             <br />
-            <span>จริงค้าบบบบบบบบ</span>
+            <span>จริงด้วยค้าบบบบบบบบ</span>
             <div className="d-flex align-items-center gap-1">
               <span className="text-muted"></span>
             </div>
