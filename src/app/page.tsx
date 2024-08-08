@@ -109,7 +109,7 @@ export default function Home() {
             className="rounded rounded-3 p-2"
             style={{ backgroundColor: "#E5E7EB" }}
           >
-            <span className="fw-semibold">Lisa</span>
+            <span className="fw-semibold">Charlie Brown</span>
             <br />
             <span>บ้าไปแล้ว... หรือเปล่า?</span>
             <div className="d-flex align-items-center gap-1">
